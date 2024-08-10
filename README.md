@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ```Nothing, check later.```
-- 🌱 I’m currently learning ```Nothing, check later.```
+- 🔭 I’m currently working on ```REVERSETALE```
+- 🌱 I’m currently learning ```Nothing.```
 - 📫 How to reach me: ```Send a message to my discord.```
 - 😄 Pronouns: ```He/Him - They/Them```
 
