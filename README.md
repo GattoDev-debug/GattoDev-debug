@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ```REVERSETALE```
+- 🔭 I’m currently working on ```Nothing.```
 - 🌱 I’m currently learning ```Nothing.```
 - 📫 How to reach me: ```Send a message to my discord.```
 - 😄 Pronouns: ```He/Him - They/Them```
